@@ -4,14 +4,12 @@ import './App.css'
 
 
 import Homepage from './pages/homepage/Homepage'
-import Category from './Components/category/Category'
 import ProductDetails from './pages/product-details/ProductDetails'
 import Contact from './pages/Contact/Contact'
 import ShoppingCart from './pages/ShoppingCart/ShoppingCart'
 import CartContextProvider from './contexts/CartContext'
-import Header from './Components/Header/Header'
+import Header from './Components/header/header'
 import Footer from './Components/Footer/Footer'
-
 
 function App() {
 
