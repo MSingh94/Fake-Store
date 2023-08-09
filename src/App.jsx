@@ -3,7 +3,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './App.css'
 
 
-import Footer from './Components/Footer/Footer'
 import Homepage from './pages/homepage/Homepage'
 import Category from './Components/category/Category'
 import ProductDetails from './pages/product-details/ProductDetails'
@@ -11,6 +10,7 @@ import Contact from './pages/Contact/Contact'
 import ShoppingCart from './pages/ShoppingCart/ShoppingCart'
 import CartContextProvider from './contexts/CartContext'
 import Header from './Components/Header/Header'
+import Footer from './Components/Footer/Footer'
 
 
 function App() {
